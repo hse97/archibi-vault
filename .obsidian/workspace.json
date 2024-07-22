@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Mooc Notes.md",
+                "file": "Java/Java Mooc Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Mooc Notes.md",
+                "file": "Java/Java Mooc Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Mooc Notes.md",
+                "file": "Java/Java Mooc Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Mooc Notes.md"
+                "file": "Java/Java Mooc Notes.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac73e47ad4dfe61d",
+  "active": "7dd13d42d19bb56c",
   "lastOpenFiles": [
     "Arch/Troubleshooting.md",
-    "Java Mooc Notes.md",
+    "Java/Java Mooc Notes.md",
     "Java",
     "Arch",
     "Arch/Arch Post Install Notes.md",
