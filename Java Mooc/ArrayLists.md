@@ -1,5 +1,3 @@
-
-
 to use arrays and lists 
 `import java.util.ArrayList;`
 `ArrayList<Type> list = new ArrayLIst<>();`

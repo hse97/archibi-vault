@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Mooc/ArrayLists.md",
+                "file": "Java Mooc/General.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Mooc/ArrayLists.md",
+                "file": "Java Mooc/General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Mooc/ArrayLists.md",
+                "file": "Java Mooc/General.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Mooc/ArrayLists.md"
+                "file": "Java Mooc/General.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "ac73e47ad4dfe61d",
   "lastOpenFiles": [
-    "Java Mooc/General.md",
+    "Java Mooc/Arrays.md",
     "Java Mooc/ArrayLists.md",
+    "Java Mooc/General.md",
     "Arch/Troubleshooting.md",
     "Java Mooc",
     "Arch",

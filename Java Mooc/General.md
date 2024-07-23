@@ -19,3 +19,8 @@ to get user input
 		to get value other then string 
 		`int userInput = Integer.valueOf(scan.nextLine())`
 			This pulls an integer value from 
+
+bubble sort 
+	`int bubble = array[firstValue];`
+	`array[firstValue] = array[secondValue];`
+	`array[secondValue] = bubble;`
