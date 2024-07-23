@@ -19,18 +19,3 @@ to get user input
 		to get value other then string 
 		`int userInput = Integer.valueOf(scan.nextLine())`
 			This pulls an integer value from 
-
-to use arrays and lists 
-`import java.util.ArrayList;`
-`ArrayList<Type> list = new ArrayLIst<>();`
-	where Type is the type of value to be stored e.g string
-	to get the value from a list you gotta use the `.get(X)` command
-		`list.get(9)` to get the 10th value
-	to get the size of an array/list use the `.size()` command 
-		`list.size()` ouputs # of indices in int format 
-	to print the last value any given array/list use 
-		`System.out.println(list.get(list.size()-1));`
-			`.get() ` to grab the value 
-			`list.size() - 1` is the value it gets the size of the array - 1 since index starts at 0
-	
-	

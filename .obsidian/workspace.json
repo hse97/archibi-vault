@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java Mooc Notes.md",
+                "file": "Java Mooc/ArrayLists.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java Mooc Notes.md",
+                "file": "Java Mooc/ArrayLists.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java Mooc Notes.md",
+                "file": "Java Mooc/ArrayLists.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java Mooc Notes.md"
+                "file": "Java Mooc/ArrayLists.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dd13d42d19bb56c",
+  "active": "ac73e47ad4dfe61d",
   "lastOpenFiles": [
+    "Java Mooc/General.md",
+    "Java Mooc/ArrayLists.md",
     "Arch/Troubleshooting.md",
-    "Java/Java Mooc Notes.md",
-    "Java",
+    "Java Mooc",
     "Arch",
     "Arch/Arch Post Install Notes.md",
     "Welcome.md",
