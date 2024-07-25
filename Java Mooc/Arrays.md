@@ -12,4 +12,14 @@ creating an array. 2 different ways
 		`number[2]` is the third element in the array 
 		confusing as fuck, when defining it you set it to the size 
 		when using it you index from 0 so (size-1)
-	
+
+size of the array 
+	`array.length()` using the `.length()` command 
+
+array as parameter of a method 
+	`public static void listElements (int[] integerArray)` 
+	passes it by reference 
+
+quick way to create an array 
+	`int[] numbers = {100, 1, 42}`
+

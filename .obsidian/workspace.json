@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Mooc/General.md",
+                "file": "Java Mooc/Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e026741cc9911ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arch/Arch Post Install Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java Mooc/General.md",
+                "file": "Arch/Arch Post Install Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java Mooc/General.md",
+                "file": "Arch/Arch Post Install Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java Mooc/General.md"
+                "file": "Arch/Arch Post Install Notes.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac73e47ad4dfe61d",
+  "active": "7e026741cc9911ae",
   "lastOpenFiles": [
     "Java Mooc/Arrays.md",
     "Java Mooc/ArrayLists.md",
+    "Java Mooc/Strings.md",
     "Java Mooc/General.md",
     "Arch/Troubleshooting.md",
     "Java Mooc",
