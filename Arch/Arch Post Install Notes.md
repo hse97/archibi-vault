@@ -75,8 +75,7 @@ Based on these analyses, it predicts what applications the user might run next a
 
 You Can install the preload by running the below commands.
 
-```
-yay -S preload```
-sudo systemctl enable preload && sudo systemctl start preload
-`
-`
+`yay -S preload`
+`sudo systemctl enable preload && sudo systemctl start preload`
+
+List
