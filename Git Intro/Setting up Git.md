@@ -12,4 +12,6 @@ enable color output
 set up default branch reconciliation behavior to merging 
 	`git config --global pull.rebase false`
 Set up SSH key. Changes. Check up to date resources on current cryptographic standards. Or use Github-CLI to login via webrowser. 
-
+	Ensure you have set up an `id_rsa` and `id_rsa.pub` key for your email associated with your email for github 
+	`ssh-keygen -t rsa -b 4096 -C "your@email.com"`
+	
