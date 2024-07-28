@@ -11,11 +11,9 @@
             "id": "65576b3437448507",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Odin Project/Foundations Course/The Cascade.md",
-                "mode": "source",
-                "source": false
+                "file": "Odin Project/Images/Pasted image 20240728122142.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odin Project/Foundations Course/The Cascade.md",
+                "file": "Odin Project/Images/Pasted image 20240728122142.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Odin Project/Foundations Course/The Cascade.md",
+                "file": "Odin Project/Images/Pasted image 20240728122142.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Odin Project/Foundations Course/The Cascade.md"
+                "file": "Odin Project/Images/Pasted image 20240728122142.png"
               }
             }
           }
@@ -146,11 +144,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65576b3437448507",
+  "active": "7dd13d42d19bb56c",
   "lastOpenFiles": [
-    "Odin Project/Foundations Course/Intro to CSS.md",
     "Odin Project/Foundations Course/The Cascade.md",
-    "Pasted image 20240728122142.png",
+    "Odin Project/Foundations Course/Intro to CSS.md",
+    "Odin Project/Images/Pasted image 20240728122142.png",
     "Odin Project/Images/Pasted image 20240728121357.png",
     "Odin Project/Images/Pasted image 20240728120702.png",
     "Odin Project/Images/Pasted image 20240728115231.png",
