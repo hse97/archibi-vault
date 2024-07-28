@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Odin Project/Foundations Course/Links and Images.md",
+                "file": "Odin Project/Foundations Course/The Cascade.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odin Project/Foundations Course/Links and Images.md",
+                "file": "Odin Project/Foundations Course/The Cascade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Odin Project/Foundations Course/Links and Images.md",
+                "file": "Odin Project/Foundations Course/The Cascade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Odin Project/Foundations Course/Links and Images.md"
+                "file": "Odin Project/Foundations Course/The Cascade.md"
               }
             }
           }
@@ -148,8 +148,14 @@
   },
   "active": "65576b3437448507",
   "lastOpenFiles": [
-    "Git Intro/Git Cheatsheet.md",
+    "Odin Project/Foundations Course/Intro to CSS.md",
+    "Odin Project/Foundations Course/The Cascade.md",
+    "Pasted image 20240728122142.png",
+    "Odin Project/Images/Pasted image 20240728121357.png",
+    "Odin Project/Images/Pasted image 20240728120702.png",
+    "Odin Project/Images/Pasted image 20240728115231.png",
     "Odin Project/Foundations Course/Links and Images.md",
+    "Git Intro/Git Cheatsheet.md",
     "Odin Project/Foundations Course/Elements and Tags.md",
     "Odin Project/Foundations Course/HTML Boilerplate.md",
     "Odin Project/Foundations Course/Intro to HTML and CSS.md",
@@ -170,9 +176,7 @@
     "Java Mooc/Intro to Object-Oriented Programming.md",
     "Odin Project",
     "Java Mooc/Arrays.md",
-    "Java Mooc/images/Pasted image 20240726213600.png",
     "Java Mooc/images",
-    "Java Mooc/images/Pasted image 20240726203137.png",
     "Java Mooc/ArrayLists.md",
     "Java Mooc/Strings.md",
     "Java Mooc/General.md",
