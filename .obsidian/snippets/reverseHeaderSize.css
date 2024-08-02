@@ -1,0 +1,10 @@
+/* Reverse the sizes of # and ### headings */
+.markdown-preview-view h1,
+.markdown-source-view h1 {
+    font-size: var(--font-size-h3);
+}
+
+.markdown-preview-view h3,
+.markdown-source-view h3 {
+    font-size: var(--font-size-h1);
+}
