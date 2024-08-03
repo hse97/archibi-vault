@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.2 Basic HTML Elements.md",
+                "file": "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.7 Links.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.2 Basic HTML Elements.md",
+                "file": "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.7 Links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.2 Basic HTML Elements.md",
+                "file": "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.7 Links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.2 Basic HTML Elements.md"
+                "file": "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.7 Links.md"
               }
             }
           }
@@ -148,16 +148,21 @@
   },
   "active": "dc2024407ee5725d",
   "lastOpenFiles": [
-    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.1 HTML Document Structure.md",
+    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.6 Images.md",
+    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.7 Links.md",
+    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.5 Tables.md",
+    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.4 Lists.md",
+    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.3 Comments.md",
     "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.2 Basic HTML Elements.md",
-    "D276 Web Dev Fundamentals/Useful Links",
+    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.1 HTML Document Structure.md",
     "D276 Web Dev Fundamentals/1. Intro to Web Programming/1.7 Intro to JavaScript.md",
-    "D276 Web Dev Fundamentals/2. HTML Fundamentals",
-    "D276 Web Dev Fundamentals/1. Intro to Web Programming/1.6 Intro to CSS.md",
     "D276 Web Dev Fundamentals/1. Intro to Web Programming/1.5 Intro to HTML.md",
     "D276 Web Dev Fundamentals/1. Intro to Web Programming/1.3 HTTP.md",
     "D276 Web Dev Fundamentals/1. Intro to Web Programming/1.2 IP Addresses, Domain Names, and URLs.md",
     "D276 Web Dev Fundamentals/1. Intro to Web Programming/1.1 Web History.md",
+    "D276 Web Dev Fundamentals/Useful Links",
+    "D276 Web Dev Fundamentals/2. HTML Fundamentals",
+    "D276 Web Dev Fundamentals/1. Intro to Web Programming/1.6 Intro to CSS.md",
     "D276 Web Dev Fundamentals/1. Intro to Web Programming/Web Trends.md",
     "2024-08-01.md",
     "Java Mooc/Intro to Object-Oriented Programming.md",
@@ -179,9 +184,6 @@
     "Git Intro/Git Cheatsheet.md",
     "Odin Project/Foundations Course/Elements and Tags.md",
     "Odin Project/Foundations Course/HTML Boilerplate.md",
-    "Odin Project/Foundations Course/Intro to HTML and CSS.md",
-    "Odin Project/Foundations Course/Lists.md",
-    "Odin Project/Foundations Course/Working with Text.md",
     "Odin Project/Images/Pasted image 20240727151855.png",
     "Odin Project/Images/Pasted image 20240727151512.png",
     "Odin Project/Images/Pasted image 20240727151158.png",
@@ -191,8 +193,6 @@
     "Odin Project/Images",
     "Odin Project/Images/Pasted image 20240727145654.png",
     "Git Intro",
-    "Git Intro/Git Workflow.md",
-    "Git Intro/Setting up Git.md",
     "Odin Project",
     "Java Mooc/images",
     "Java Mooc"
