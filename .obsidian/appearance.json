@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Obsidian gruvbox",
+  "cssTheme": "Faded",
   "enabledCssSnippets": [
     "reverseHeaderSize"
-  ]
+  ],
+  "theme": "obsidian"
 }
