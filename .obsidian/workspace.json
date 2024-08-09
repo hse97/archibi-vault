@@ -11,12 +11,8 @@
             "id": "bb33b13f53700e8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.8 Specificity.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#History",
+                "query": "text-shadow",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.8 Specificity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.8 Specificity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.8 Specificity.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,15 +150,33 @@
   },
   "active": "bb33b13f53700e8e",
   "lastOpenFiles": [
+    "Diary/!Alpha Entry.md",
+    "Diary/2024-08-09.md",
+    "D276 Web Dev Fundamentals/7. Mobile Web Development/7.1 Mobile Websites and Browsers.md",
+    "D276 Web Dev Fundamentals/7. Mobile Web Development",
+    "Decks.md",
+    "Diary/2024-08-08.md",
+    "Diary/2024-08-07.md",
+    "Diary/2024-08-05.md",
+    "Diary/2024-08-04.md",
+    "D276 Web Dev Fundamentals/6. More CSS/6.4 Special Effects.md",
+    "D276 Web Dev Fundamentals/6. More CSS/6.5 Animation.md",
+    "D276 Web Dev Fundamentals/6. More CSS/6.3 Positioning Elements.md",
+    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.7 Links.md",
+    "D276 Web Dev Fundamentals/6. More CSS/6.7 Sass.md",
+    "D276 Web Dev Fundamentals/6. More CSS/6.6 Styling Forms.md",
+    "D276 Web Dev Fundamentals/6. More CSS/6.2 Grid Layout.md",
+    "D276 Web Dev Fundamentals/Images/Pasted image 20240807220232.png",
+    "D276 Web Dev Fundamentals/6. More CSS/6.1 Flexbox.md",
+    "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.6 Box Model.md",
+    "D276 Web Dev Fundamentals/6. More CSS",
+    "D276 Web Dev Fundamentals/5.",
+    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.2 Basic HTML Elements.md",
+    "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.4 Common Properties.md",
+    "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.5 Font and Text Properties.md",
+    "D276 Web Dev Fundamentals/1. Intro to Web Programming/1.6 Intro to CSS.md",
     "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.8 Specificity.md",
     "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.7 CSS Units.md",
-    "Diary/2024-08-05.md",
-    "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.6 Box Model.md",
-    "Diary/!Alpha Entry.md",
-    "Diary/2024-08-04.md",
-    "Decks.md",
-    "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.5 Font and Text Properties.md",
-    "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.4 Common Properties.md",
     "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.3 Advanced Selectors.md",
     "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.2 Basic Selectors.md",
     "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.1 Using CSS in HTML.md",
@@ -176,35 +186,17 @@
     "D276 Web Dev Fundamentals/Images/Pasted image 20240804091732.png",
     "D276 Web Dev Fundamentals/Images/Pasted image 20240804090256.png",
     "D276 Web Dev Fundamentals/5. CSS Fundamentals",
-    "D276 Web Dev Fundamentals/4. XML Fundamentals/4.1 Intro to XML.md",
     "D276 Web Dev Fundamentals/4. XML Fundamentals",
-    "D276 Web Dev Fundamentals/3. More HTML/3.3 Common Form Widgets.md",
-    "D276 Web Dev Fundamentals/3. More HTML/3.2 Forms.md",
-    "D276 Web Dev Fundamentals/3. More HTML/3.9 Example - Restaurant Reviews.md",
-    "D276 Web Dev Fundamentals/3. More HTML/3.7 HTML Developer Guidelines.md",
-    "D276 Web Dev Fundamentals/3. More HTML/3.6 <script> and <style>.md",
-    "D276 Web Dev Fundamentals/3. More HTML/3.5 Audio and Video.md",
-    "D276 Web Dev Fundamentals/3. More HTML/3.4 Additional Form Widgets.md",
     "Diary",
-    "D276 Web Dev Fundamentals/3. More HTML/3.1 HTML Containers.md",
-    "submit.md",
     "D276 Web Dev Fundamentals/Images/Pasted image 20240804092229.png",
     "D276 Web Dev Fundamentals/Images/Pasted image 20240804091958.png",
     "D276 Web Dev Fundamentals/Images",
     "D276 Web Dev Fundamentals/3. More HTML/Untitled",
-    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.1 HTML Document Structure.md",
-    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.5 Tables.md",
     "D276 Web Dev Fundamentals/3. More HTML",
-    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.9 Example Band Webpage.md",
-    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.2 Basic HTML Elements.md",
     "Untitled.canvas",
     "D276 Web Dev Fundamentals/Useful Links",
-    "D276 Web Dev Fundamentals/2. HTML Fundamentals",
     "Untitled 1.canvas",
-    "D276 Web Dev Fundamentals/1. Intro to Web Programming",
-    "D276 Web Dev Fundamentals",
     "Odin Project/Images/Pasted image 20240728122142.png",
-    "Odin Project/Images/Pasted image 20240728121357.png",
-    "Odin Project/Images/Pasted image 20240728120702.png"
+    "Odin Project/Images/Pasted image 20240728121357.png"
   ]
 }
