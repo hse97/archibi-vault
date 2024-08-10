@@ -11,8 +11,12 @@
             "id": "768dd952daece02d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "D276 Web Dev Fundamentals/Quizzet Wrong Answers 1st Attempts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "D276 Web Dev Fundamentals/Quizzet Wrong Answers 1st Attempts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "D276 Web Dev Fundamentals/Quizzet Wrong Answers 1st Attempts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "D276 Web Dev Fundamentals/Quizzet Wrong Answers 1st Attempts.md"
+              }
             }
           },
           {
@@ -150,14 +158,19 @@
   },
   "active": "768dd952daece02d",
   "lastOpenFiles": [
-    "Diary/2024-08-08.md",
-    "Diary/!Alpha Entry.md",
+    "Diary/2024-08-04.md",
+    "Untitled.canvas",
     "Diary/2024-08-10.md",
-    "D276 Web Dev Fundamentals/7. Mobile Web Development/7.7 Bootstrap (WGU Custom).md",
-    "D276 Web Dev Fundamentals/6. More CSS/6.6 Styling Forms.md",
-    "D276 Web Dev Fundamentals/7. Mobile Web Development/7.6 Bootstrap.md",
+    "D276 Web Dev Fundamentals/Quizzet Wrong Answers 1st Attempts.md",
+    "D276 Web Dev Fundamentals/Images/Pasted image 20240810161105.png",
+    "D276 Web Dev Fundamentals/Quizzlet",
     "D276 Web Dev Fundamentals/7. Mobile Web Development/7.5 Responsive Images.md",
     "D276 Web Dev Fundamentals/7. Mobile Web Development/7.4 Media Queries.md",
+    "D276 Web Dev Fundamentals/7. Mobile Web Development/7.6 Bootstrap.md",
+    "Diary/2024-08-08.md",
+    "Diary/!Alpha Entry.md",
+    "D276 Web Dev Fundamentals/7. Mobile Web Development/7.7 Bootstrap (WGU Custom).md",
+    "D276 Web Dev Fundamentals/6. More CSS/6.6 Styling Forms.md",
     "Diary/2024-08-09.md",
     "D276 Web Dev Fundamentals/7. Mobile Web Development/7.3 Viewport.md",
     "D276 Web Dev Fundamentals/6. More CSS/6.3 Positioning Elements.md",
@@ -168,7 +181,6 @@
     "Decks.md",
     "Diary/2024-08-07.md",
     "Diary/2024-08-05.md",
-    "Diary/2024-08-04.md",
     "D276 Web Dev Fundamentals/6. More CSS/6.4 Special Effects.md",
     "D276 Web Dev Fundamentals/6. More CSS/6.5 Animation.md",
     "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.7 Links.md",
@@ -176,10 +188,8 @@
     "D276 Web Dev Fundamentals/6. More CSS/6.2 Grid Layout.md",
     "D276 Web Dev Fundamentals/Images/Pasted image 20240807220232.png",
     "D276 Web Dev Fundamentals/6. More CSS/6.1 Flexbox.md",
-    "D276 Web Dev Fundamentals/5. CSS Fundamentals/5.6 Box Model.md",
     "D276 Web Dev Fundamentals/6. More CSS",
     "D276 Web Dev Fundamentals/5.",
-    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.2 Basic HTML Elements.md",
     "D276 Web Dev Fundamentals/Images/Pasted image 20240804092652.png",
     "D276 Web Dev Fundamentals/Images/Pasted image 20240804092441.png",
     "D276 Web Dev Fundamentals/Images/Pasted image 20240804092111.png",
@@ -193,10 +203,7 @@
     "D276 Web Dev Fundamentals/Images",
     "D276 Web Dev Fundamentals/3. More HTML/Untitled",
     "D276 Web Dev Fundamentals/3. More HTML",
-    "Untitled.canvas",
-    "D276 Web Dev Fundamentals/Useful Links",
     "Untitled 1.canvas",
-    "Odin Project/Images/Pasted image 20240728122142.png",
-    "Odin Project/Images/Pasted image 20240728121357.png"
+    "Odin Project/Images/Pasted image 20240728122142.png"
   ]
 }
