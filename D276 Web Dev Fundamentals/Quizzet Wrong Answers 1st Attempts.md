@@ -175,4 +175,173 @@ What is a root folder for a website?
 		- the folder where the website files are stored
 
 
-### Practice Quiz #8: Mobile Development (1 of 3)
+### Practice Quiz #8a: Mobile Development (1 of 3)
+	Score: 83.3% (35/42)
+
+How do developers access the DevTools screen emulator in Chrome?
+	My answer:
+		Ctrl+Shift+E
+	Right answer: 
+		Ctrl+Shift+I
+
+How many main techniques are used by developers to implement mobile websites?
+	My answer: 
+		2
+	Right answer: 
+		3
+
+Which strategy is straightforward and easy to implement where developers can create the desktop website using one set of URLs and the mobile site using another?
+	My answer: 
+		None of the above
+	Right answer:
+		Separate Websites
+
+What does an adaptive website do?
+	My answer: 
+		- Adapts to the width of the browser at all widths
+	Right answer:
+		- Adapts to the width of the browser at specific widths
+
+What happens when you press Esc in Chrome DevTools?
+	My answer: 
+		- It closes the DevTools
+	Right answer: 
+		- It shows “Network conditions” and “Sensors” tabs
+
+What did using a viewport that was wider than the mobile device’s screen require the user to do?
+	My answer: 
+		- Zoom-out to comfortably read the text
+	Right answer: 
+		- Zoom-in to comfortably read the text
+
+### Practice Quiz #8b: Mobile Development (2 of 3)
+	Score: 85% (34/40)
+
+What is a “mobile first” design methodology that begins with designing the website for the smallest device and then adapts the design for larger screens?
+	My answer:
+		Responsive design
+	Right answer:
+		Progressive enhancement 
+
+What is a media type in a CSS media query? 
+	My answer: 
+		a CSS method that returns the current value of a specified CSS property 
+	Right answer: 
+		Device category that a media query applies to 
+
+Where are media queries often used? 
+	My answer: 
+		In `<img>` element and in forms 
+	Right answer: 
+		In `<link>` elements and in stylesheets
+
+How is DPR often designated? 
+	My answer: 
+		With a + symbol 
+	Right answer: 
+		With an "x" symbol 
+
+What does the sizes attribute of an image specify? 
+	My answer: 
+		One or more pairs of view port conditions and absolute image sizes
+	Right answer: 
+		One or more pairs of media conditions and relative image sizes 
+
+### Practice Quiz #8c: Mobile Development (3 of 3)
+	Score: 79.3% (23/29)
+
+What does the srcset attribute of an image indicate when used with the sizes attribute?
+	My answer: 
+		The relative image width for each image in the set
+	Right answer: 
+		The actual image width for each image in the set
+
+What is the purpose of the` <picture>` element in web development?
+	My answer: 
+		To create image galleries
+	Right answer:
+		To match images with device characteristics
+
+What happens if the media condition of a `<source>` element within a `<picture>` element is true? 
+	My answer:
+		The associated image is resized 
+	Right answer:
+		The associated image is downloaded and displayed
+
+What does the container class create in bootstrap?
+	My answer:
+		A responsive container with a 100% width 
+	Right answer:
+		A responsive fixed-width container with a max-width that changes at various breakpoints 
+
+What does the 'col-md' class do when the browser's width is >= 768px in Bootstrap
+	My answer:
+		Runs vertically
+	Right answer:
+		Runs horizontally 
+
+What CSS style does the `img-fluid` class add to the image in bootstrap?
+	My answer:
+		`display:block; min-width:100%; height: auto
+	Right answer:
+		`display:block; max-width:100%; height:auto
+
+### OA Simulation Quiz 
+	Score: 90% (63/70)
+
+Which HTML element creates a table row, which contains all of the row cells?
+	My answer: 
+		- `<table>...</table>`
+	Right answer:
+		`- <tr>...</tr>`
+
+Which attribute inside the <label>...</label> element is used to associate the label with a widget?
+	My answer: 
+		name
+	Right answer: 
+		for
+
+An `<option>...</option>` element must have a value attribute? 
+	My answer:
+		True
+	Right answer: 
+		False
+
+Select the four (4) `<input>` types that exist for entering specific types of text.
+	My answer:
+		- email, - tel, url, action, 
+	Right answer:
+		email, search, tel, url, 
+
+True or False? The `<audio>...</audio>` element can always be paused by the user. 
+	My answer:
+		True
+	Right answer:
+		False
+
+Select all applicable properties to be used with the box-shadow CSS property.
+	My answer:
+		blur-radius, color, inset, offset-x, offset-y
+	Right answer:
+		blur-radius, color, inset, offset-x, offset-y, spread-radius,
+
+What do developers use to modify a webpage’s layout depending on the browser’s width? 
+	My answer:
+		Fluid web design
+	Right answer: 
+		Responsive web design 
+
+Where are media queries often used?
+	My answer:
+		in `<img>` elements and in forms
+	Right answer:
+		In `<link>` elements and stylesheets
+
+What does the sizes attribute of an image specify?
+	My answer:
+		One or more pairs of view port conditions and relative image sizes
+	Right answer:
+		One or more pairs of media conditions and relative image sizes
+
+
+
