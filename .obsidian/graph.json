@@ -6,17 +6,46 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"D276 Web Dev Fundamentals\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"D426 Data Management Foundations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
+      "query": "path:\"Odin Project\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11206400
+      }
+    },
+    {
+      "query": "path:\"Java Mooc\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5832959
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.30717255717256,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.51091476091476,
   "lineSizeMultiplier": 1.99989604989605,
   "collapse-forces": false,
   "centerStrength": 0.250519750519751,
   "repelStrength": 20,
   "linkStrength": 0.628898128898129,
   "linkDistance": 30,
-  "scale": 0.08779149519890231,
-  "close": false
+  "scale": 0.026012294873748773,
+  "close": true
 }
