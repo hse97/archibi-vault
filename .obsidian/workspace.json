@@ -11,12 +11,8 @@
             "id": "768dd952daece02d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D426 Data Management Foundations/5. Data Storage/5.1 Storage Media.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3cd5f7aaaaf4917f",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D426 Data Management Foundations/5. Data Storage/5.1 Storage Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D426 Data Management Foundations/5. Data Storage/5.1 Storage Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "D426 Data Management Foundations/5. Data Storage/5.1 Storage Media.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,8 +148,14 @@
       "templates:Insert template": false
     }
   },
-  "active": "768dd952daece02d",
+  "active": "7dd13d42d19bb56c",
   "lastOpenFiles": [
+    "Diary/2024-08-25.md",
+    "D426 Data Management Foundations/5. Data Storage/5.7 Physical Design.md",
+    "D426 Data Management Foundations/5. Data Storage/5.5 Other Indexes.md",
+    "D426 Data Management Foundations/5. Data Storage/5.4 Multi-Level Indexes.md",
+    "D426 Data Management Foundations/5. Data Storage/5.3 Single-Level Indexes.md",
+    "D426 Data Management Foundations/5. Data Storage/5.1 Storage Media.md",
     "D426 Data Management Foundations/2. Relational Databases/2.12 Constraints.md",
     "Odin Project/Foundations Course/HTML Boilerplate.md",
     "D276 Web Dev Fundamentals/3. More HTML/3.3 Common Form Widgets.md",
@@ -168,8 +165,6 @@
     "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.4 Lists.md",
     "D276 Web Dev Fundamentals/7. Mobile Web Development/7.3 Viewport.md",
     "D426 Data Management Foundations/3. Complex Queries/3.8 View Tables.md",
-    "Diary/2024-08-25.md",
-    "D426 Data Management Foundations/5. Data Storage/5.1 Storage Media.md",
     "D426 Data Management Foundations/4. Database Design/4.12 Applying Normal Form.md",
     "D426 Data Management Foundations/5. Data Storage/Untitled",
     "D426 Data Management Foundations/5. Data Storage",
@@ -183,14 +178,10 @@
     "D426 Data Management Foundations/4. Database Design/4.2 Discovery.md",
     "D426 Data Management Foundations/4. Database Design/4.11 Boyce-Codd Normal Form.md",
     "D426 Data Management Foundations/4. Database Design/4.10 First, Second, and Third Normal Form.md",
-    "D426 Data Management Foundations/4. Database Design/4.7 Implementing Entities.md",
-    "Pasted image 20240825134936.png",
-    "D426 Data Management Foundations/4. Database Design/Untitled 1.md",
-    "D426 Data Management Foundations/4. Database Design/4.6 Alternative Modeling Conventions.md",
-    "Pasted image 20240825134638.png",
+    "D426 Data Management Foundations/Images/Pasted image 20240825134936.png",
+    "D426 Data Management Foundations/Images/Pasted image 20240825134638.png",
     "D426 Data Management Foundations/Images/Pasted image 20240825134528.png",
     "D426 Data Management Foundations/Images/Pasted image 20240825134122.png",
-    "Diary/2024-08-24.md",
     "D426 Data Management Foundations/Images/Pasted image 20240825132832.png",
     "D426 Data Management Foundations/Images/Pasted image 20240825132142.png",
     "D426 Data Management Foundations/Images/Pasted image 20240825131309.png",
