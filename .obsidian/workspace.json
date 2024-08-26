@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D426 Data Management Foundations/2. Relational Databases/2.9 Primary Keys.md",
+                "file": "D426 Data Management Foundations/5. Data Storage/5.1 Storage Media.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#8a",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3cd5f7aaaaf4917f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D426 Data Management Foundations/2. Relational Databases/2.9 Primary Keys.md",
+                "file": "D426 Data Management Foundations/5. Data Storage/5.1 Storage Media.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D426 Data Management Foundations/2. Relational Databases/2.9 Primary Keys.md",
+                "file": "D426 Data Management Foundations/5. Data Storage/5.1 Storage Media.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D426 Data Management Foundations/2. Relational Databases/2.9 Primary Keys.md"
+                "file": "D426 Data Management Foundations/5. Data Storage/5.1 Storage Media.md"
               }
             }
           },
@@ -158,53 +159,53 @@
   },
   "active": "768dd952daece02d",
   "lastOpenFiles": [
-    "Diary/2024-08-20.md",
-    "Diary/!D426 Data Foundations Alpha.md",
-    "D426 Data Management Foundations/2. Relational Databases/2.9 Primary Keys.md",
-    "Diary/2024-08-19.md",
+    "D426 Data Management Foundations/2. Relational Databases/2.12 Constraints.md",
+    "Odin Project/Foundations Course/HTML Boilerplate.md",
+    "D276 Web Dev Fundamentals/3. More HTML/3.3 Common Form Widgets.md",
+    "D426 Data Management Foundations/3. Complex Queries/3.2 Simple Functions.md",
+    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.3 Comments.md",
+    "Odin Project/Git Intro/Git Cheatsheet.md",
+    "D276 Web Dev Fundamentals/2. HTML Fundamentals/2.4 Lists.md",
+    "D276 Web Dev Fundamentals/7. Mobile Web Development/7.3 Viewport.md",
+    "D426 Data Management Foundations/3. Complex Queries/3.8 View Tables.md",
+    "Diary/2024-08-25.md",
+    "D426 Data Management Foundations/5. Data Storage/5.1 Storage Media.md",
+    "D426 Data Management Foundations/4. Database Design/4.12 Applying Normal Form.md",
+    "D426 Data Management Foundations/5. Data Storage/Untitled",
+    "D426 Data Management Foundations/5. Data Storage",
     "D426 Data Management Foundations/2. Relational Databases/2.8 Inserting, Updating, and Deleting Rows.md",
-    "D426 Data Management Foundations/2. Relational Databases/2.7 NULL Values.md",
-    "D426 Data Management Foundations/2. Relational Databases/2.6 Selecting Rows.md",
-    "Diary/2024-08-18.md",
-    "Untitled.canvas",
-    "D426 Data Management Foundations/Images/Pasted image 20240818234242.png",
-    "D426 Data Management Foundations/2. Relational Databases/2.5 Data Types.md",
-    "D426 Data Management Foundations/2. Relational Databases/2.4 Tables.md",
-    "D426 Data Management Foundations/2. Relational Databases/2.3 Managing Databases.md",
-    "D426 Data Management Foundations/Images/Pasted image 20240818220751.png",
-    "Diary/!D276 Web Fundamentals Alpha.md",
-    "D426 Data Management Foundations/2. Relational Databases/2.2 Structured Query Language.md",
-    "D426 Data Management Foundations/Images/Pasted image 20240818215923.png",
-    "D426 Data Management Foundations/2. Relational Databases/2.1 Relational Model.md",
-    "D426 Data Management Foundations/Images/Pasted image 20240818135515.png",
-    "D426 Data Management Foundations/Images/Pasted image 20240818002943.png",
-    "D426 Data Management Foundations/Images/Pasted image 20240818134653.png",
-    "D426 Data Management Foundations/2. Relational Databases",
-    "D426 Data Management Foundations/1. Intro to Databases/1.5 MySQL.md",
-    "Diary/!Java MOOC Alpha.md",
-    "D426 Data Management Foundations/1. Intro to Databases/1.4 Database Design and Programming.md",
-    "Diary/2024-08-17.md",
-    "D426 Data Management Foundations/Images/Pasted image 20240817223228.png",
-    "D426 Data Management Foundations/Images",
-    "Diary/2024-07-25.md",
-    "Diary/2024-07-24.md",
-    "Diary/2024-07-23.md",
-    "Arch/Arch Post Install Notes.md",
-    "Diary/2024-08-04.md",
-    "Diary/2024-08-03.md",
-    "Diary/2024-08-01.md",
+    "D426 Data Management Foundations/4. Database Design/4.9 Implementing Attributes.md",
+    "D276 Web Dev Fundamentals/3. More HTML/3.5 Audio and Video.md",
+    "D276 Web Dev Fundamentals/1. Intro to Web Programming/1.7 Intro to JavaScript.md",
     "D426 Data Management Foundations/1. Intro to Databases/1.3 Query Languages.md",
+    "D426 Data Management Foundations/4. Database Design/4.5 Supertype and Subtype Entities.md",
+    "D426 Data Management Foundations/4. Database Design/4.8 Implementing Relationships.md",
+    "D426 Data Management Foundations/4. Database Design/4.2 Discovery.md",
+    "D426 Data Management Foundations/4. Database Design/4.11 Boyce-Codd Normal Form.md",
+    "D426 Data Management Foundations/4. Database Design/4.10 First, Second, and Third Normal Form.md",
+    "D426 Data Management Foundations/4. Database Design/4.7 Implementing Entities.md",
+    "Pasted image 20240825134936.png",
+    "D426 Data Management Foundations/4. Database Design/Untitled 1.md",
+    "D426 Data Management Foundations/4. Database Design/4.6 Alternative Modeling Conventions.md",
+    "Pasted image 20240825134638.png",
+    "D426 Data Management Foundations/Images/Pasted image 20240825134528.png",
+    "D426 Data Management Foundations/Images/Pasted image 20240825134122.png",
+    "Diary/2024-08-24.md",
+    "D426 Data Management Foundations/Images/Pasted image 20240825132832.png",
+    "D426 Data Management Foundations/Images/Pasted image 20240825132142.png",
+    "D426 Data Management Foundations/Images/Pasted image 20240825131309.png",
+    "D426 Data Management Foundations/Images/Pasted image 20240825125654.png",
+    "D426 Data Management Foundations/Images/Pasted image 20240825122925.png",
+    "D426 Data Management Foundations/Images/Pasted image 20240825122233.png",
+    "D426 Data Management Foundations/4. Database Design",
+    "D426 Data Management Foundations/3. Complex Queries",
+    "Untitled.canvas",
+    "D426 Data Management Foundations/2. Relational Databases",
+    "D426 Data Management Foundations/Images",
     "D426 Data Management Foundations/1. Intro to Databases",
     "Untitled",
     "D426 Data Management Foundations",
-    "D276 Web Dev Fundamentals/Images/Pasted image 20240810161105.png",
     "D276 Web Dev Fundamentals/Quizzlet",
-    "D276 Web Dev Fundamentals/7. Mobile Web Development",
-    "D276 Web Dev Fundamentals/Images/Pasted image 20240807220232.png",
-    "D276 Web Dev Fundamentals/6. More CSS",
-    "D276 Web Dev Fundamentals/5.",
-    "D276 Web Dev Fundamentals/Images/Pasted image 20240804092652.png",
-    "D276 Web Dev Fundamentals/5. CSS Fundamentals",
     "Untitled 1.canvas"
   ]
 }
