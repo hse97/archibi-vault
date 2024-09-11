@@ -11,8 +11,12 @@
             "id": "768dd952daece02d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C867 Scripting and Programming Applications/2. Intro to C++/2.4 Errors and Warnings.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C867 Scripting and Programming Applications/2. Intro to C++/2.4 Errors and Warnings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C867 Scripting and Programming Applications/2. Intro to C++/2.4 Errors and Warnings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C867 Scripting and Programming Applications/2. Intro to C++/2.4 Errors and Warnings.md"
+              }
             }
           },
           {
@@ -150,6 +158,16 @@
   },
   "active": "768dd952daece02d",
   "lastOpenFiles": [
+    "Diary/!C867 Scripting and Programming Applications Alpha.md",
+    "Diary/Entries/2024-09-11.md",
+    "Diary/Entries/Untitled.md",
+    "C867 Scripting and Programming Applications/2. Intro to C++/2.4 Errors and Warnings.md",
+    "C867 Scripting and Programming Applications/2. Intro to C++/2.3 Comments and Whitespace.md",
+    "C867 Scripting and Programming Applications/2. Intro to C++/2.2 Programming Basics.md",
+    "C867 Scripting and Programming Applications/2. Intro to C++/2.1 Programming (General).md",
+    "C867 Scripting and Programming Applications/2. Intro to C++",
+    "C867 Scripting and Programming Applications/Untitled.md",
+    "C867 Scripting and Programming Applications",
     "Diary/Entries/2024-09-08.md",
     "Diary/Entries/2024-08-31.md",
     "Diary/!D426 Data Foundations Alpha.md",
@@ -169,14 +187,6 @@
     "D276 Web Dev Fundamentals/6. More CSS/6.1 Flexbox.md",
     "D276 Web Dev Fundamentals/7. Mobile Web Development/7.4 Media Queries.md",
     "D426 Data Management Foundations/4. Database Design/4.8 Implementing Relationships.md",
-    "D426 Data Management Foundations/D426 PA Missed Questions.md",
-    "D426 Data Management Foundations/2. Relational Databases/2.7 NULL Values.md",
-    "D426 Data Management Foundations/D426 Study Guide V2.md",
-    "D426 Data Management Foundations/1. Intro to Databases/1.2 Database Systems.md",
-    "D426 Data Management Foundations/3. Complex Queries/3.6 Subqueries.md",
-    "D426 Data Management Foundations/3. Complex Queries/3.5 Equijoins, Self-Joins, and Cross-Joins.md",
-    "2024-09-02.md",
-    "D426 Data Management Foundations/4. Database Design/4.7 Implementing Entities.md",
     "Pasted image 20240902154051.png",
     "Pasted image 20240902154052.png",
     "Pasted image 20240902144821.png",
@@ -195,8 +205,6 @@
     "D426 Data Management Foundations/2. Relational Databases",
     "D426 Data Management Foundations/Images",
     "D426 Data Management Foundations/1. Intro to Databases",
-    "Untitled",
-    "D426 Data Management Foundations",
     "Untitled 1.canvas"
   ]
 }
