@@ -11,12 +11,10 @@
             "id": "768dd952daece02d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Diary/Entries/2024-09-16.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Entries/2024-09-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Entries/2024-09-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -115,8 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diary/Entries/2024-09-16.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -134,11 +149,33 @@
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "68b3046598a36f75",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "019fb946d637b828",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -156,54 +193,55 @@
       "templates:Insert template": false
     }
   },
-  "active": "768dd952daece02d",
+  "active": "019fb946d637b828",
   "lastOpenFiles": [
-    "C867 Scripting and Programming Applications/Beg. C++ Programming/Arrays and Vectors.md",
-    "C867 Scripting and Programming Applications/Beg. C++ Programming/Structure of a C++ Program.md",
-    "Diary/Entries/2024-09-15.md",
-    "Diary/Entries/2024-09-16.md",
+    "Diary/Entries/2025-02-12.md",
+    "C949 DSA 1/1. Intro to Data Structure and Algos/1.12 Dynamic Programming.md",
+    "C949 DSA 1/1. Intro to Data Structure and Algos/1.9 Heuristics.md",
+    "C949 DSA 1/1. Intro to Data Structure and Algos/1.8 Huffman Compression.md",
+    "C949 DSA 1/Pictures",
+    "C949 DSA 1/Pictures/Pasted image 20250212215235.png",
+    "C949 DSA 1/1. Intro to Data Structure and Algos/1.6 Application of ADTs.md",
+    "C949 DSA 1/1. Intro to Data Structure and Algos/1.5 Abstract Data Types.md",
+    "Pasted image 20250212210218.png",
+    "C949 DSA 1/1. Intro to Data Structure and Algos/1.4 Relation Between Data Structures and Algorithms.md",
+    "C949 DSA 1/1. Intro to Data Structure and Algos/1.3 Intro to Algorithms.md",
+    "Pasted image 20250212202708.png",
+    "Diary/!C949 DSA 1 Alpha.md",
     "Diary/!C867 Scripting and Programming Applications Alpha.md",
+    "C949 DSA 1/1. Intro to Data Structure and Algos/1.1 Data Structures.md",
+    "D276 Web Dev Fundamentals/3. More HTML/3.4 Additional Form Widgets.md",
+    "D276 Web Dev Fundamentals/3. More HTML/3.6 <script> and <style>.md",
+    "D276 Web Dev Fundamentals/3. More HTML/3.2 Forms.md",
+    "D426 Data Management Foundations/1. Intro to Databases/1.5 MySQL.md",
+    "D426 Data Management Foundations/1. Intro to Databases/1.3 Query Languages.md",
+    "D426 Data Management Foundations/1. Intro to Databases/1.2 Database Systems.md",
+    "D426 Data Management Foundations/1. Intro to Databases/1.4 Database Design and Programming.md",
+    "D426 Data Management Foundations/1. Intro to Databases/1.1 Database Basics.md",
+    "C949 DSA 1/1. Intro to Data Structure and Algos",
+    "Diary/!C949 DSA 1 Alpha",
+    "Diary/Untitled.canvas",
+    "Diary/Entries/2024-09-16.md",
+    "C867 Scripting and Programming Applications/Beg. C++ Programming/Structure of a C++ Program.md",
+    "C867 Scripting and Programming Applications/C867 PA Notes.md",
+    "C949 DSA 1",
+    "C867 Scripting and Programming Applications/Beg. C++ Programming/Arrays and Vectors.md",
+    "Diary/Entries/2024-09-15.md",
     "C867 Scripting and Programming Applications/Beg. C++ Programming/Compiler Warnings & Errors, Linker Errors, Runtime Errors, Logic Errors.md",
     "Pasted image 20240916162545.png",
     "C867 Scripting and Programming Applications/4. Branches/4.1 & 4.2 If-Else Branches (General) and Detecting Equal Values with Branches.md",
     "C867 Scripting and Programming Applications/Beg. C++ Programming",
-    "C867 Scripting and Programming Applications/3. Variables  & Assignments/3.7 & 3.8 Floating-Point Numbers (double).md",
     "C867 Scripting and Programming Applications/4. Branches",
-    "C867 Scripting and Programming Applications/3. Variables  & Assignments/3.12 Type Conversions.md",
-    "C867 Scripting and Programming Applications/3. Variables  & Assignments/3.10 & 3.11 Math Functions, Integer Division and Modulo.md",
-    "C867 Scripting and Programming Applications/3. Variables  & Assignments/3.14 & 3.15 Characters and Strings.md",
     "C867 Scripting and Programming Applications/Images/Pasted image 20240915204157.png",
     "C867 Scripting and Programming Applications/Images/Pasted image 20240915190124.png",
-    "C867 Scripting and Programming Applications/3. Variables  & Assignments/3.4 Arithmetic Expressions (Basic).md",
-    "C867 Scripting and Programming Applications/3. Variables  & Assignments/3.5 Arithmetic Expressions (Int).md",
-    "C867 Scripting and Programming Applications/3. Variables  & Assignments/3.1 Variables and Assignments (General).md",
     "C867 Scripting and Programming Applications/Images/Pasted image 20240915140900.png",
-    "C867 Scripting and Programming Applications/3. Variables  & Assignments/3.3 Identifiers.md",
     "C867 Scripting and Programming Applications/Images/Pasted image 20240915113726.png",
     "C867 Scripting and Programming Applications/Images",
-    "C867 Scripting and Programming Applications/3. Variables  & Assignments/3.2 Variables (Int).md",
-    "Diary/Entries/2024-09-11.md",
     "C867 Scripting and Programming Applications/3. Variables  & Assignments",
-    "C867 Scripting and Programming Applications/2. Intro to C++/2.4 Errors and Warnings.md",
-    "Diary/Entries/Untitled.md",
-    "C867 Scripting and Programming Applications/2. Intro to C++/2.3 Comments and Whitespace.md",
-    "C867 Scripting and Programming Applications/2. Intro to C++/2.2 Programming Basics.md",
-    "C867 Scripting and Programming Applications/2. Intro to C++/2.1 Programming (General).md",
     "C867 Scripting and Programming Applications/2. Intro to C++",
     "C867 Scripting and Programming Applications",
-    "Diary/Entries/2024-09-08.md",
-    "Diary/Entries/2024-08-31.md",
-    "Diary/!D426 Data Foundations Alpha.md",
-    "Diary/Entries/2024-08-09.md",
     "D426 Data Management Foundations/Images/Pasted image 20240908184416.png",
     "Pasted image 20240902154051.png",
-    "Pasted image 20240902154052.png",
-    "Pasted image 20240902144821.png",
-    "Diary/Entries",
-    "D426 Data Management Foundations/5. Data Storage/Untitled",
-    "D426 Data Management Foundations/5. Data Storage",
-    "D426 Data Management Foundations/Images/Pasted image 20240825134936.png",
-    "D426 Data Management Foundations/4. Database Design",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
