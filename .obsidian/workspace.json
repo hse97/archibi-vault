@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c79b2907453bde29",
+        "id": "69f6844a514ec760",
         "type": "tabs",
         "children": [
           {
-            "id": "db604ca01d7722f8",
+            "id": "b118901f9d660f27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arch/Troubleshooting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Troubleshooting"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -194,12 +190,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ed43232d0a335a07",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -217,10 +223,27 @@
       "templates:Insert template": false
     }
   },
-  "active": "db604ca01d7722f8",
+  "active": "7dd13d42d19bb56c",
   "lastOpenFiles": [
+    "Diary/Entries/2025-02-19.md",
+    "C949 DSA 1/3. Stacks and Queues/3.4 Queue Abstract Data Type (ADT).md",
+    "C949 DSA 1/3. Stacks and Queues/3.3 Array-Based Stacks.md",
+    "Pasted image 20250220001929.png",
+    "C949 DSA 1/3. Stacks and Queues/3.2 Stacks using linked lists.md",
+    "C949 DSA 1/3. Stacks and Queues/3.1 Stack Abstract Data Type (ADT).md",
+    "C949 DSA 1/Pictures/Pasted image 20250212215235.png",
+    "C949 DSA 1/3. Stacks and Queues",
+    "Untitled.canvas",
     "Diary/!C949 DSA 1 Alpha.md",
-    "Diary/2025-02-18.md",
+    "C949 DSA 1/2. Lists/2.18 Array-Based Lists.md",
+    "C949 DSA 1/2. Lists/2.17 Linked Lists - Recursion.md",
+    "Pasted image 20250219215231.png",
+    "C949 DSA 1/2. Lists/2.16 Linked List Dummy Nodes.md",
+    "C949 DSA 1/2. Lists/2.14 Sorting Linked Lists.md",
+    "C949 DSA 1/2. Lists/2.13 Linked List Traversal.md",
+    "C949 DSA 1/2. Lists/2.12 Circular Lists.md",
+    "Arch/Troubleshooting.md",
+    "Diary/Entries/2025-02-18.md",
     "C949 DSA 1/2. Lists/2.10 Doubly-Linked Lists - Remove.md",
     "C949 DSA 1/2. Lists/2.9 Doubly-Linked Lists - Inserts.md",
     "C949 DSA 1/2. Lists/2.8 Doubly-Linked Lists.md",
@@ -234,23 +257,9 @@
     "Pasted image 20250218202116.png",
     "C949 DSA 1/2. Lists",
     "Diary/Entries/2025-02-12.md",
-    "C949 DSA 1/1. Intro to Data Structure and Algos/1.12 Dynamic Programming.md",
-    "C949 DSA 1/1. Intro to Data Structure and Algos/1.9 Heuristics.md",
-    "C949 DSA 1/1. Intro to Data Structure and Algos/1.8 Huffman Compression.md",
     "C949 DSA 1/Pictures",
-    "C949 DSA 1/Pictures/Pasted image 20250212215235.png",
-    "C949 DSA 1/1. Intro to Data Structure and Algos/1.6 Application of ADTs.md",
-    "C949 DSA 1/1. Intro to Data Structure and Algos/1.5 Abstract Data Types.md",
     "Pasted image 20250212210218.png",
-    "C949 DSA 1/1. Intro to Data Structure and Algos/1.4 Relation Between Data Structures and Algorithms.md",
-    "C949 DSA 1/1. Intro to Data Structure and Algos/1.3 Intro to Algorithms.md",
     "Pasted image 20250212202708.png",
-    "Diary/!C867 Scripting and Programming Applications Alpha.md",
-    "C949 DSA 1/1. Intro to Data Structure and Algos/1.1 Data Structures.md",
-    "D276 Web Dev Fundamentals/3. More HTML/3.4 Additional Form Widgets.md",
-    "D276 Web Dev Fundamentals/3. More HTML/3.6 <script> and <style>.md",
-    "D276 Web Dev Fundamentals/3. More HTML/3.2 Forms.md",
-    "D426 Data Management Foundations/1. Intro to Databases/1.5 MySQL.md",
     "C949 DSA 1/1. Intro to Data Structure and Algos",
     "Diary/!C949 DSA 1 Alpha",
     "Diary/Untitled.canvas",
@@ -261,12 +270,8 @@
     "C867 Scripting and Programming Applications/Images/Pasted image 20240915204157.png",
     "C867 Scripting and Programming Applications/Images/Pasted image 20240915190124.png",
     "C867 Scripting and Programming Applications/Images/Pasted image 20240915140900.png",
-    "C867 Scripting and Programming Applications/Images/Pasted image 20240915113726.png",
     "C867 Scripting and Programming Applications/Images",
     "C867 Scripting and Programming Applications/3. Variables  & Assignments",
-    "C867 Scripting and Programming Applications/2. Intro to C++",
-    "D426 Data Management Foundations/Images/Pasted image 20240908184416.png",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
