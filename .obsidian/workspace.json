@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "355f2ea28440c175",
+        "id": "c79b2907453bde29",
         "type": "tabs",
         "children": [
           {
-            "id": "768dd952daece02d",
+            "id": "db604ca01d7722f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Arch/Troubleshooting.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Troubleshooting"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200
   },
   "right": {
     "id": "3cd5f7aaaaf4917f",
@@ -170,12 +174,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "636772e4c48f250a",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "52efd4e81714a5c4",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -193,8 +217,22 @@
       "templates:Insert template": false
     }
   },
-  "active": "019fb946d637b828",
+  "active": "db604ca01d7722f8",
   "lastOpenFiles": [
+    "Diary/!C949 DSA 1 Alpha.md",
+    "Diary/2025-02-18.md",
+    "C949 DSA 1/2. Lists/2.10 Doubly-Linked Lists - Remove.md",
+    "C949 DSA 1/2. Lists/2.9 Doubly-Linked Lists - Inserts.md",
+    "C949 DSA 1/2. Lists/2.8 Doubly-Linked Lists.md",
+    "C949 DSA 1/2. Lists/2.6 Linked List Search.md",
+    "C949 DSA 1/2. Lists/2.7 Python - Singly-Linked Lists.md",
+    "C949 DSA 1/2. Lists/2.5 Singly-Linked Lists - Remove.md",
+    "C949 DSA 1/2. Lists/2.4 Singly-Linked Lists - Insert.md",
+    "C949 DSA 1/2. Lists/2.3 Singly-Linked Listss.md",
+    "C949 DSA 1/2. Lists/2.2 List Data Structure.md",
+    "C949 DSA 1/2. Lists/2.1 List Abstract Data Type (ADT).md",
+    "Pasted image 20250218202116.png",
+    "C949 DSA 1/2. Lists",
     "Diary/Entries/2025-02-12.md",
     "C949 DSA 1/1. Intro to Data Structure and Algos/1.12 Dynamic Programming.md",
     "C949 DSA 1/1. Intro to Data Structure and Algos/1.9 Heuristics.md",
@@ -207,29 +245,17 @@
     "C949 DSA 1/1. Intro to Data Structure and Algos/1.4 Relation Between Data Structures and Algorithms.md",
     "C949 DSA 1/1. Intro to Data Structure and Algos/1.3 Intro to Algorithms.md",
     "Pasted image 20250212202708.png",
-    "Diary/!C949 DSA 1 Alpha.md",
     "Diary/!C867 Scripting and Programming Applications Alpha.md",
     "C949 DSA 1/1. Intro to Data Structure and Algos/1.1 Data Structures.md",
     "D276 Web Dev Fundamentals/3. More HTML/3.4 Additional Form Widgets.md",
     "D276 Web Dev Fundamentals/3. More HTML/3.6 <script> and <style>.md",
     "D276 Web Dev Fundamentals/3. More HTML/3.2 Forms.md",
     "D426 Data Management Foundations/1. Intro to Databases/1.5 MySQL.md",
-    "D426 Data Management Foundations/1. Intro to Databases/1.3 Query Languages.md",
-    "D426 Data Management Foundations/1. Intro to Databases/1.2 Database Systems.md",
-    "D426 Data Management Foundations/1. Intro to Databases/1.4 Database Design and Programming.md",
-    "D426 Data Management Foundations/1. Intro to Databases/1.1 Database Basics.md",
     "C949 DSA 1/1. Intro to Data Structure and Algos",
     "Diary/!C949 DSA 1 Alpha",
     "Diary/Untitled.canvas",
-    "Diary/Entries/2024-09-16.md",
-    "C867 Scripting and Programming Applications/Beg. C++ Programming/Structure of a C++ Program.md",
-    "C867 Scripting and Programming Applications/C867 PA Notes.md",
     "C949 DSA 1",
-    "C867 Scripting and Programming Applications/Beg. C++ Programming/Arrays and Vectors.md",
-    "Diary/Entries/2024-09-15.md",
-    "C867 Scripting and Programming Applications/Beg. C++ Programming/Compiler Warnings & Errors, Linker Errors, Runtime Errors, Logic Errors.md",
     "Pasted image 20240916162545.png",
-    "C867 Scripting and Programming Applications/4. Branches/4.1 & 4.2 If-Else Branches (General) and Detecting Equal Values with Branches.md",
     "C867 Scripting and Programming Applications/Beg. C++ Programming",
     "C867 Scripting and Programming Applications/4. Branches",
     "C867 Scripting and Programming Applications/Images/Pasted image 20240915204157.png",
@@ -239,9 +265,7 @@
     "C867 Scripting and Programming Applications/Images",
     "C867 Scripting and Programming Applications/3. Variables  & Assignments",
     "C867 Scripting and Programming Applications/2. Intro to C++",
-    "C867 Scripting and Programming Applications",
     "D426 Data Management Foundations/Images/Pasted image 20240908184416.png",
-    "Pasted image 20240902154051.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

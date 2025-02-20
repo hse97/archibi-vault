@@ -8,58 +8,58 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"D276 Web Dev Fundamentals\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "path:\"D426 Data Management Foundations\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 16771584
-      }
-    },
-    {
-      "query": "path:\"Odin Project\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 11206400
-      }
-    },
-    {
-      "query": "path:\"Java Mooc\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5832959
-      }
-    },
-    {
       "query": "path:\"C867 Scripting and Programming Applications\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 14701138
       }
     },
     {
       "query": "path:\"C949 DSA 1\"  ",
       "color": {
         "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:\"D276 Web Dev Fundamentals\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "path:\"D426 Data Management Foundations\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Java Mooc\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "path:\"Odin Project\"  ",
+      "color": {
+        "a": 1,
         "rgb": 5419488
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.16455301455301,
-  "lineSizeMultiplier": 0.981185031185031,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.981185031185031,
+  "lineSizeMultiplier": 1.02193347193347,
   "collapse-forces": false,
-  "centerStrength": 0.250519750519751,
-  "repelStrength": 20,
+  "centerStrength": 0.204781704781705,
+  "repelStrength": 10.997920997921,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.08779149519890175,
+  "linkDistance": 250,
+  "scale": 0.0585276634659345,
   "close": true
 }
