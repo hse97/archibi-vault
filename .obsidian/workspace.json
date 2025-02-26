@@ -11,10 +11,14 @@
             "id": "b118901f9d660f27",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "C949 DSA 1/6. Balanced Trees/6.1 AVL - Balanced Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.1 AVL - Balanced Tree"
             }
           }
         ]
@@ -220,12 +224,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4b1b5566ea118e02",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -245,39 +259,43 @@
   },
   "active": "b118901f9d660f27",
   "lastOpenFiles": [
+    "C949 DSA 1/6. Balanced Trees/6.1 AVL - Balanced Tree.md",
+    "C949 DSA 1/6. Balanced Trees",
     "Diary/!C949 DSA 1 Alpha.md",
-    "2025-02-24.md",
+    "2025-02-25.md",
+    "C949 DSA 1/5. Trees/5.11 Tries.md",
+    "C949 DSA 1/5. Trees/5.10 BST - Recursion.md",
+    "C949 DSA 1/5. Trees/5.9 BST Parent Node Pointers.md",
+    "C949 DSA 1/5. Trees/5.8 BST Height and Insertion Order.md",
+    "C949 DSA 1/5. Trees/5.7 BST inorder Traversal.md",
+    "C949 DSA 1/5. Trees/5.6 BST Remove Algo.md",
+    "C949 DSA 1/5. Trees/5.5 BST Insert Algorithm.md",
+    "C949 DSA 1/5. Trees/5.4 BST Search Algorithm.md",
+    "C949 DSA 1/5. Trees/5.3 Binary Search Trees.md",
+    "C949 DSA 1/Pictures/Pasted image 20250225203717.png",
+    "C949 DSA 1/5. Trees/5.2 Application of Trees.md",
+    "C949 DSA 1/5. Trees/5.1 Binary Trees.md",
+    "C949 DSA 1/Pictures/Pasted image 20250225200107.png",
+    "C949 DSA 1/5. Trees",
+    "Diary/Entries/2025-02-21.md",
     "C949 DSA 1/4. Hash Tables/4.9 Hashing Algorithms - Cryptography, Password Hashing.md",
     "C949 DSA 1/4. Hash Tables/4.8 Direct Hashing.md",
+    "Diary/Entries/2025-02-24.md",
     "C949 DSA 1/4. Hash Tables/4.7 Common Hash Functions.md",
     "C949 DSA 1/4. Hash Tables/4.6 Hash Table Resizing.md",
     "C949 DSA 1/4. Hash Tables/4.1 Hash Tables.md",
     "C949 DSA 1/4. Hash Tables/4.5 Double Hashing.md",
     "C949 DSA 1/4. Hash Tables/4.4 Quadratic Probing.md",
-    "Diary/2025-02-21.md",
     "C949 DSA 1/4. Hash Tables/4.3 Linear Probing.md",
     "Diary/Entries/2024-08-03.md",
     "C949 DSA 1/4. Hash Tables/4.2 Chaining.md",
     "C949 DSA 1/4. Hash Tables",
-    "C949 DSA 1/3. Stacks and Queues/3.8 Deque Abstract Data Type (ADT).md",
-    "Diary/Entries/2025-02-19.md",
-    "C949 DSA 1/3. Stacks and Queues/3.6 Array-Based Queues.md",
     "C949 DSA 1/Pictures/Pasted image 20250221182104.png",
-    "C949 DSA 1/3. Stacks and Queues/3.5 Queues using linked lists.md",
-    "C949 DSA 1/3. Stacks and Queues/3.1 Stack Abstract Data Type (ADT).md",
-    "C949 DSA 1/3. Stacks and Queues/3.4 Queue Abstract Data Type (ADT).md",
-    "Diary/Entries/2025-02-12.md",
-    "C949 DSA 1/3. Stacks and Queues/3.3 Array-Based Stacks.md",
     "Pasted image 20250220001929.png",
-    "C949 DSA 1/3. Stacks and Queues/3.2 Stacks using linked lists.md",
     "C949 DSA 1/Pictures/Pasted image 20250212215235.png",
     "C949 DSA 1/3. Stacks and Queues",
     "Untitled.canvas",
-    "C949 DSA 1/2. Lists/2.18 Array-Based Lists.md",
-    "C949 DSA 1/2. Lists/2.17 Linked Lists - Recursion.md",
     "Pasted image 20250219215231.png",
-    "C949 DSA 1/2. Lists/2.16 Linked List Dummy Nodes.md",
-    "C949 DSA 1/2. Lists/2.14 Sorting Linked Lists.md",
     "Pasted image 20250218202116.png",
     "C949 DSA 1/2. Lists",
     "C949 DSA 1/Pictures",
@@ -289,10 +307,6 @@
     "C949 DSA 1",
     "Pasted image 20240916162545.png",
     "C867 Scripting and Programming Applications/Beg. C++ Programming",
-    "C867 Scripting and Programming Applications/4. Branches",
-    "C867 Scripting and Programming Applications/Images/Pasted image 20240915204157.png",
-    "C867 Scripting and Programming Applications/Images/Pasted image 20240915190124.png",
-    "C867 Scripting and Programming Applications/Images",
     "Untitled 1.canvas"
   ]
 }
