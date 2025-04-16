@@ -11,14 +11,10 @@
             "id": "b118901f9d660f27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C949 DSA 1/6. Balanced Trees/6.1 AVL - Balanced Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6.1 AVL - Balanced Tree"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -234,12 +230,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "e1707c6bee930858",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "601aef1a2c442c16",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -253,16 +269,31 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "templates:Insert template": false
+      "templates:Insert template": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b118901f9d660f27",
+  "active": "7dd13d42d19bb56c",
   "lastOpenFiles": [
-    "C949 DSA 1/6. Balanced Trees/6.1 AVL - Balanced Tree.md",
-    "C949 DSA 1/6. Balanced Trees",
     "Diary/!C949 DSA 1 Alpha.md",
-    "2025-02-25.md",
+    "Diary/!D426 Data Foundations Alpha.md",
+    "Diary/Entries/2025-04-16.md",
+    "C949 DSA 1/9. Graphs/9.6 Graphs - Depth First Search.md",
+    "C949 DSA 1/9. Graphs/9.5 Graphs - Breadth First Search.md",
+    "C949 DSA 1/9. Graphs/9.4 Graph Representations - Adjacency Matrices.md",
+    "C949 DSA 1/Pictures/Pasted image 20250415230914.png",
+    "C949 DSA 1/9. Graphs/9.3 Graph Representations - Adjacency Lists.md",
+    "C949 DSA 1/Pictures/Pasted image 20250415230243.png",
+    "C949 DSA 1/9. Graphs/9.1 Intro.md",
+    "C949 DSA 1/9. Graphs/9.2 Application of Graphs.md",
+    "C949 DSA 1/8. Sets/8.3 Static and Dynamic Set Operations.md",
+    "C949 DSA 1/9. Graphs",
+    "C949 DSA 1/8. Sets/8.1 Set Abstract Data Type.md",
+    "C949 DSA 1/8. Sets/8.2 Set Operations.md",
+    "Diary/Entries/2025-02-25.md",
+    "C949 DSA 1/6. Balanced Trees/6.1 AVL - Balanced Tree.md",
+    "C949 DSA 1/8. Sets",
+    "C949 DSA 1/6. Balanced Trees",
     "C949 DSA 1/5. Trees/5.11 Tries.md",
     "C949 DSA 1/5. Trees/5.10 BST - Recursion.md",
     "C949 DSA 1/5. Trees/5.9 BST Parent Node Pointers.md",
@@ -278,17 +309,6 @@
     "C949 DSA 1/Pictures/Pasted image 20250225200107.png",
     "C949 DSA 1/5. Trees",
     "Diary/Entries/2025-02-21.md",
-    "C949 DSA 1/4. Hash Tables/4.9 Hashing Algorithms - Cryptography, Password Hashing.md",
-    "C949 DSA 1/4. Hash Tables/4.8 Direct Hashing.md",
-    "Diary/Entries/2025-02-24.md",
-    "C949 DSA 1/4. Hash Tables/4.7 Common Hash Functions.md",
-    "C949 DSA 1/4. Hash Tables/4.6 Hash Table Resizing.md",
-    "C949 DSA 1/4. Hash Tables/4.1 Hash Tables.md",
-    "C949 DSA 1/4. Hash Tables/4.5 Double Hashing.md",
-    "C949 DSA 1/4. Hash Tables/4.4 Quadratic Probing.md",
-    "C949 DSA 1/4. Hash Tables/4.3 Linear Probing.md",
-    "Diary/Entries/2024-08-03.md",
-    "C949 DSA 1/4. Hash Tables/4.2 Chaining.md",
     "C949 DSA 1/4. Hash Tables",
     "C949 DSA 1/Pictures/Pasted image 20250221182104.png",
     "Pasted image 20250220001929.png",
@@ -300,13 +320,9 @@
     "C949 DSA 1/2. Lists",
     "C949 DSA 1/Pictures",
     "Pasted image 20250212210218.png",
-    "Pasted image 20250212202708.png",
     "C949 DSA 1/1. Intro to Data Structure and Algos",
     "Diary/!C949 DSA 1 Alpha",
     "Diary/Untitled.canvas",
-    "C949 DSA 1",
-    "Pasted image 20240916162545.png",
-    "C867 Scripting and Programming Applications/Beg. C++ Programming",
     "Untitled 1.canvas"
   ]
 }
