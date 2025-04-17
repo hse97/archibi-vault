@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "69f6844a514ec760",
+        "id": "b386e976e513d0a8",
         "type": "tabs",
         "children": [
           {
-            "id": "b118901f9d660f27",
+            "id": "14c7ec4e45d4c53e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "C949 DSA 1/10. B-Trees/10.1 B-Trees Introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.1 B-Trees Introduction"
             }
           }
         ]
@@ -250,12 +254,32 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3fa7b3d11fefa63f",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7468f982dedd9510",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 16
       }
     ],
     "direction": "horizontal",
@@ -275,10 +299,21 @@
   },
   "active": "7dd13d42d19bb56c",
   "lastOpenFiles": [
+    "C949 DSA 1/Pictures/Pasted image 20250416221204.png",
+    "C949 DSA 1/10. B-Trees/10.1 B-Trees Introduction.md",
+    "C949 DSA 1/10. B-Trees",
     "Diary/!C949 DSA 1 Alpha.md",
-    "Diary/!D426 Data Foundations Alpha.md",
-    "Diary/Entries/2025-04-16.md",
+    "Diary/Entries/2025-04-15.md",
+    "2025-04-16.md",
+    "C949 DSA 1/9. Graphs/9.20 All Pairs Shortest Path.md",
+    "C949 DSA 1/9. Graphs/9.18 Minimum Spanning Tree.md",
+    "C949 DSA 1/9. Graphs/9.16 Topological Sort.md",
+    "C949 DSA 1/9. Graphs/9.14 Algorithm - Bellman-Ford's Shortest Path.md",
+    "C949 DSA 1/9. Graphs/9.13 Algorithm - Dijkstra's Shortest Path.md",
+    "C949 DSA 1/9. Graphs/9.8 Weighted Graphs.md",
+    "C949 DSA 1/9. Graphs/9.7 Directed Graphs.md",
     "C949 DSA 1/9. Graphs/9.6 Graphs - Depth First Search.md",
+    "Diary/!D426 Data Foundations Alpha.md",
     "C949 DSA 1/9. Graphs/9.5 Graphs - Breadth First Search.md",
     "C949 DSA 1/9. Graphs/9.4 Graph Representations - Adjacency Matrices.md",
     "C949 DSA 1/Pictures/Pasted image 20250415230914.png",
@@ -296,19 +331,9 @@
     "C949 DSA 1/6. Balanced Trees",
     "C949 DSA 1/5. Trees/5.11 Tries.md",
     "C949 DSA 1/5. Trees/5.10 BST - Recursion.md",
-    "C949 DSA 1/5. Trees/5.9 BST Parent Node Pointers.md",
-    "C949 DSA 1/5. Trees/5.8 BST Height and Insertion Order.md",
-    "C949 DSA 1/5. Trees/5.7 BST inorder Traversal.md",
-    "C949 DSA 1/5. Trees/5.6 BST Remove Algo.md",
-    "C949 DSA 1/5. Trees/5.5 BST Insert Algorithm.md",
-    "C949 DSA 1/5. Trees/5.4 BST Search Algorithm.md",
-    "C949 DSA 1/5. Trees/5.3 Binary Search Trees.md",
     "C949 DSA 1/Pictures/Pasted image 20250225203717.png",
-    "C949 DSA 1/5. Trees/5.2 Application of Trees.md",
-    "C949 DSA 1/5. Trees/5.1 Binary Trees.md",
     "C949 DSA 1/Pictures/Pasted image 20250225200107.png",
     "C949 DSA 1/5. Trees",
-    "Diary/Entries/2025-02-21.md",
     "C949 DSA 1/4. Hash Tables",
     "C949 DSA 1/Pictures/Pasted image 20250221182104.png",
     "Pasted image 20250220001929.png",
@@ -321,7 +346,6 @@
     "C949 DSA 1/Pictures",
     "Pasted image 20250212210218.png",
     "C949 DSA 1/1. Intro to Data Structure and Algos",
-    "Diary/!C949 DSA 1 Alpha",
     "Diary/Untitled.canvas",
     "Untitled 1.canvas"
   ]
