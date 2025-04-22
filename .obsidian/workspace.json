@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C949 DSA 1/10. B-Trees/10.1 B-Trees Introduction.md",
+                "file": "C949 DSA 1/11. Searching & Sorting Algorithms/11.19 Shell Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.1 B-Trees Introduction"
+              "title": "11.19 Shell Sort"
             }
           }
         ]
@@ -274,12 +274,52 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "07735dcbb60e5382",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "94f0f7adaec3d909",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "6d7a2e31365cda8b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0ea397dd24a8da44",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 20
       }
     ],
     "direction": "horizontal",
@@ -297,40 +337,42 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7dd13d42d19bb56c",
+  "active": "0ea397dd24a8da44",
   "lastOpenFiles": [
-    "C949 DSA 1/Pictures/Pasted image 20250416221204.png",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.17 Insertion Sort.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.19 Shell Sort.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.15 Selection Sort.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.13 Overview of Fast Sorting Algorithms.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.12 Analyzing the Time Complexity of Recursive Algorithms.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.11 Recursive Algorithms.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.10 Recursive Definitions.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.9 Algorithm Efficiency.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.8 Algorithm Analysis.md",
+    "Diary/Entries/2025-04-16.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.6 Growth of Functions and Complexity.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.5 Constant Time Operations.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.2 Binary Search.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms/11.1 Searching and Algorithms.md",
+    "C949 DSA 1/10. B-Trees/10.5 2-3-4 Tree Removal.md",
+    "C949 DSA 1/11. Searching & Sorting Algorithms",
+    "C949 DSA 1/10. B-Trees/10.4 2-3-4 Tree Rotations and Fusion.md",
+    "C949 DSA 1/10. B-Trees/10.3 2-3-4 Tree Insert Algorithm.md",
+    "C949 DSA 1/10. B-Trees/10.2 2-3-4 Tree Search Algorithm.md",
     "C949 DSA 1/10. B-Trees/10.1 B-Trees Introduction.md",
+    "C949 DSA 1/Pictures/Pasted image 20250416221204.png",
     "C949 DSA 1/10. B-Trees",
     "Diary/!C949 DSA 1 Alpha.md",
     "Diary/Entries/2025-04-15.md",
-    "2025-04-16.md",
     "C949 DSA 1/9. Graphs/9.20 All Pairs Shortest Path.md",
     "C949 DSA 1/9. Graphs/9.18 Minimum Spanning Tree.md",
     "C949 DSA 1/9. Graphs/9.16 Topological Sort.md",
     "C949 DSA 1/9. Graphs/9.14 Algorithm - Bellman-Ford's Shortest Path.md",
     "C949 DSA 1/9. Graphs/9.13 Algorithm - Dijkstra's Shortest Path.md",
-    "C949 DSA 1/9. Graphs/9.8 Weighted Graphs.md",
-    "C949 DSA 1/9. Graphs/9.7 Directed Graphs.md",
-    "C949 DSA 1/9. Graphs/9.6 Graphs - Depth First Search.md",
-    "Diary/!D426 Data Foundations Alpha.md",
-    "C949 DSA 1/9. Graphs/9.5 Graphs - Breadth First Search.md",
-    "C949 DSA 1/9. Graphs/9.4 Graph Representations - Adjacency Matrices.md",
     "C949 DSA 1/Pictures/Pasted image 20250415230914.png",
-    "C949 DSA 1/9. Graphs/9.3 Graph Representations - Adjacency Lists.md",
     "C949 DSA 1/Pictures/Pasted image 20250415230243.png",
-    "C949 DSA 1/9. Graphs/9.1 Intro.md",
-    "C949 DSA 1/9. Graphs/9.2 Application of Graphs.md",
-    "C949 DSA 1/8. Sets/8.3 Static and Dynamic Set Operations.md",
     "C949 DSA 1/9. Graphs",
-    "C949 DSA 1/8. Sets/8.1 Set Abstract Data Type.md",
-    "C949 DSA 1/8. Sets/8.2 Set Operations.md",
-    "Diary/Entries/2025-02-25.md",
-    "C949 DSA 1/6. Balanced Trees/6.1 AVL - Balanced Tree.md",
     "C949 DSA 1/8. Sets",
     "C949 DSA 1/6. Balanced Trees",
-    "C949 DSA 1/5. Trees/5.11 Tries.md",
-    "C949 DSA 1/5. Trees/5.10 BST - Recursion.md",
     "C949 DSA 1/Pictures/Pasted image 20250225203717.png",
     "C949 DSA 1/Pictures/Pasted image 20250225200107.png",
     "C949 DSA 1/5. Trees",
@@ -344,8 +386,6 @@
     "Pasted image 20250218202116.png",
     "C949 DSA 1/2. Lists",
     "C949 DSA 1/Pictures",
-    "Pasted image 20250212210218.png",
-    "C949 DSA 1/1. Intro to Data Structure and Algos",
     "Diary/Untitled.canvas",
     "Untitled 1.canvas"
   ]
